@@ -1,0 +1,24 @@
+{
+  "name": "sapientemagni",
+  "description": "Yet another class for arbitrary-precision integers in pure JavaScript. Small. Well tested.",
+  "version": "1.0.0",
+  "keywords": [
+    "ipsum",
+    "BigNumber",
+    "maiores",
+    "bignum"
+  ],
+  "main": "BigInteger.js",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/Yaffle/BigInteger"
+    }
+  ],
+  "homepage": "https://github.com/ZelmaShanahan/sapientemagni.git",
+  "author": "AmosGerhold",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZelmaShanahan/sapientemagni.git"
+  }
+}
